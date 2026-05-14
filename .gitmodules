@@ -1,0 +1,6 @@
+[submodule "libs/lidar"]
+	path = libs/lidar
+	url = https://github.com/Slamtec/rplidar_sdk.git
+[submodule "libs/Hello-World"]
+	path = libs/Hello-World
+	url = https://github.com/octocat/Hello-World.git
